@@ -1,0 +1,21 @@
+C:\Users\Futuremind\Desktop\SMSProject\Activity 05\Activity 05\bin\Debug\Activity 05.exe.config
+C:\Users\Futuremind\Desktop\SMSProject\Activity 05\Activity 05\bin\Debug\Activity 05.exe
+C:\Users\Futuremind\Desktop\SMSProject\Activity 05\Activity 05\bin\Debug\Activity 05.pdb
+C:\Users\Futuremind\Desktop\SMSProject\Activity 05\Activity 05\obj\Debug\Activity 05.csproj.AssemblyReference.cache
+C:\Users\Futuremind\Desktop\SMSProject\Activity 05\Activity 05\obj\Debug\Activity 05.csproj.SuggestedBindingRedirects.cache
+C:\Users\Futuremind\Desktop\SMSProject\Activity 05\Activity 05\obj\Debug\Activity_05.Form1.resources
+C:\Users\Futuremind\Desktop\SMSProject\Activity 05\Activity 05\obj\Debug\Activity_05.Properties.Resources.resources
+C:\Users\Futuremind\Desktop\SMSProject\Activity 05\Activity 05\obj\Debug\Activity 05.csproj.GenerateResource.cache
+C:\Users\Futuremind\Desktop\SMSProject\Activity 05\Activity 05\obj\Debug\Activity 05.csproj.CoreCompileInputs.cache
+C:\Users\Futuremind\Desktop\SMSProject\Activity 05\Activity 05\obj\Debug\Activity 05.exe
+C:\Users\Futuremind\Desktop\SMSProject\Activity 05\Activity 05\obj\Debug\Activity 05.pdb
+D:\1st Year C file\C# practical SLIATE\Activity 05\Activity 05\bin\Debug\Activity 05.exe.config
+D:\1st Year C file\C# practical SLIATE\Activity 05\Activity 05\bin\Debug\Activity 05.exe
+D:\1st Year C file\C# practical SLIATE\Activity 05\Activity 05\bin\Debug\Activity 05.pdb
+D:\1st Year C file\C# practical SLIATE\Activity 05\Activity 05\obj\Debug\Activity 05.csproj.AssemblyReference.cache
+D:\1st Year C file\C# practical SLIATE\Activity 05\Activity 05\obj\Debug\Activity_05.Form1.resources
+D:\1st Year C file\C# practical SLIATE\Activity 05\Activity 05\obj\Debug\Activity_05.Properties.Resources.resources
+D:\1st Year C file\C# practical SLIATE\Activity 05\Activity 05\obj\Debug\Activity 05.csproj.GenerateResource.cache
+D:\1st Year C file\C# practical SLIATE\Activity 05\Activity 05\obj\Debug\Activity 05.csproj.CoreCompileInputs.cache
+D:\1st Year C file\C# practical SLIATE\Activity 05\Activity 05\obj\Debug\Activity 05.exe
+D:\1st Year C file\C# practical SLIATE\Activity 05\Activity 05\obj\Debug\Activity 05.pdb
